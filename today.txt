@@ -1,1 +1,3 @@
 Hello world
+Hello Google
+Hello Siri
